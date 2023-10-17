@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://git-hub-readme-stats-clone-7se5.vercel.app/api/top-langs/?username=t-techa2020&layout=compact&theme=nord&count_private=true" />
+  <img alt="Top Langs" height="150px" src="https://git-hub-readme-stats-clone-7se5.vercel.app/api/top-langs/?username=t-techa2020&layout=compact&theme=nord&count_private=true&exclude_repo=gitHub-readme-stats-clone" />
   <img alt="github stats" height="150px" src="https://git-hub-readme-stats-clone-7se5.vercel.app/api?username=t-techa2020&theme=nord" />
 </p>
 
